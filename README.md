@@ -1,0 +1,1 @@
+Mental health issues among students are a growing concern for educational institutions worldwide. In this project, we aim to develop an ML-based system that can detect the mental health status of students by analyzing their written responses to a standard questionnaire. 
